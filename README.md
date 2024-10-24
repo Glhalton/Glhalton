@@ -2,7 +2,8 @@
 <style>
 .links{
   display ="flex"
-  
+  flexdirection="row"
+  gap="20px"
 }
 </style>
 
