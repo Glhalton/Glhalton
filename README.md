@@ -1,11 +1,4 @@
 ## Olá, meu nome é Glhalton Amaro.
-<style>
-.links{
-  display ="flex"
-  flexdirection="row"
-  gap="20px"
-}
-</style>
 
 <div class="links" align="center" >
 <a href="https://www.linkedin.com/in/douglas-silva-526879213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
