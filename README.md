@@ -11,8 +11,9 @@
 
 
 <!--TECNOLOGIES-->
-<h2 align="center">Tools and Technologies</h2>
+
 <div align="center">
+  <h2>Tools and Technologies</h2>
   <a href="https://skillicons.dev" align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,cs,git,mysql,visualstudio,vscode,mint,windows&theme=dark" />
 </a>
