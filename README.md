@@ -19,4 +19,10 @@
 </a>
 </div>
 
+<div align="center">
+  <img src="Img/ReimuPixel.png" width="400">
+  <!--<img src="Img/MarisaPixel.ico">-->
+</div>
+
+
 
