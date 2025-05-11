@@ -19,6 +19,8 @@
 </a>
 </div>
 
+<br><br>
+
 <div align="center">
   <img src="Img/ReimuPixel2.png" width="245">
   <img src="Img/MarisaPixel.ico">
