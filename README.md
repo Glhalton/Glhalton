@@ -20,8 +20,8 @@
 </div>
 
 <div align="center">
-  <img src="Img/ReimuPixel.png" width="400">
-  <!--<img src="Img/MarisaPixel.ico">-->
+  <img src="Img/ReimuPixel2.png" width="245">
+  <img src="Img/MarisaPixel.ico">
 </div>
 
 
