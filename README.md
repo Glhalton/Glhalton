@@ -35,7 +35,7 @@
 <div align="left">
   <h2>🧾 - Databases</h2>
   <a href="https://skillicons.dev" align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,&theme=dark" >
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" >
 </div>
 
 
