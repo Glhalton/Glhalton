@@ -43,7 +43,7 @@
 <div align="left">
   <h2>⚒️ - Tools</h2>
   <a href="https://skillicons.dev" align="center">
-  <img src="https://skillicons.dev/icons?i=git,notion,obsidian,vscode,mint,windows,fastify,prisma&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=git,notion,obsidian,vscode,mint,windows,prisma&theme=dark"/>
 </div>
 
 <!--Social-->
