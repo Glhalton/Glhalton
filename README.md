@@ -21,7 +21,7 @@
 <div align="left">
   <h2>🖥️ - Programming Languages</h2>
   <a href="https://skillicons.dev" align="center">
-  <img src="https://skillicons.dev/icons?i=cs,javascript,typescript,java,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript&theme=dark" />
 </a>
 </div>
 
@@ -43,7 +43,7 @@
 <div align="left">
   <h2>⚒️ - Tools</h2>
   <a href="https://skillicons.dev" align="center">
-  <img src="https://skillicons.dev/icons?i=git,notion,obsidian,visualstudio,vscode,dotnet,mint,windows&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=git,notion,obsidian,vscode,mint,windows,fastify,prisma&theme=dark"/>
 </div>
 
 <!--Social-->
