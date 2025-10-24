@@ -26,10 +26,10 @@
 </div>
 
 <!--Markdown Languages-->
-<div align="left">
+<!-- <div align="left">
   <h2>🏷️ - Markdown Languages</h2>
   <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-</div>
+</div> -->
 
 <!--Databases-->
 <div align="left">
