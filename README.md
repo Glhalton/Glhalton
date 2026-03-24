@@ -7,7 +7,6 @@
   <br>
 </div>
 
-
 <!--CARDS-->
 <div align="left">
   <h2>GitHub Stats</h2>
@@ -15,7 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=glhalton&locale=en&hide_title=false&layout=compact&card_width=370&langs_count=8&theme=catppuccin_mocha&hide_border=false" height="185" />
   <br>
 </div>
-
 
 <!--Programming Languages-->
 <div align="left">
@@ -38,7 +36,6 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" >
 </div>
 
-
 <!--Tools-->
 <div align="left">
   <h2>⚒️ - Tools</h2>
@@ -59,9 +56,6 @@
 
 <!--Reimu and Marisa-->
  <div align="center">
-  <img src="Img/ReimuPixel2.png" width="245">
-  <img src="Img/MarisaPixel.ico">
+  <img src="Img/reimuPixel.png">
+  <img src="Img/marisaPixel.png">
 </div>
-
-
-
