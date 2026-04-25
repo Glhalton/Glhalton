@@ -11,12 +11,11 @@
 <div align="left">
   <h2>GitHub Stats</h2>
 
-  ![glhalton's Stats](https://github-readme-stats.vercel.app/api?username=glhalton&theme=react&show_icons=true&hide_border=true&count_private=true)
-  ![glhalton's Streak](https://github-readme-streak-stats.herokuapp.com/?user=glhalton&theme=react&hide_border=true)
   
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=glhalton&theme=react&show_icons=true&hide_border=true&count_private=true" height=180/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glhalton&theme=react&hide_border=true" height=180 /> -->
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glhalton&theme=react&show_icons=true&hide_border=true&layout=compact" height="185" />-->
+  <img src="https://github-readme-stats.vercel.app/api?username=glhalton&theme=react&show_icons=true&hide_border=true&count_private=true" height=170/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glhalton&theme=react&hide_border=true" height=170 />
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glhalton&theme=react&show_icons=true&hide_border=true&layout=compact" height="185" />
   <br>
 </div>
 
