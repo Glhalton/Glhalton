@@ -2,7 +2,7 @@
 <div align="left">
   <h1>Glhalton Amaro</h1>
   <p>
-    Software engineering student at the State University of Pará (UEPA)
+    Hello! I am a Software Engineering student at the State University of Pará(UEPA), currently beginning my journey in backend development.
   </p>
   <br>
 </div>
