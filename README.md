@@ -1,9 +1,7 @@
 <!--TITLE-->
 
 <h1 align="center">
-  <code>
-    Hello! I am a Software Engineering student at the State University of Pará(UEPA) e backend developer.
-  </code>
+  <code>Hello! I am a Software Engineering student at the State University of Pará(UEPA) e backend developer.</code>
 </h1>
 
 <div align="center">
