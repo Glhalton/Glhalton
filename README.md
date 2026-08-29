@@ -1,63 +1,54 @@
 <!--TITLE-->
-<div align="left">
-  <h1>Glhalton Amaro</h1>
-  <p>
-    Hello! I am a Software Engineering student at the State University of Pará(UEPA), currently beginning my journey in backend development.
-  </p>
-  <br>
+
+<h1 align="center">
+  <code>
+    Hello! I am a Software Engineering student at the State University of Pará(UEPA) e backend developer.
+  </code>
+</h1>
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=glhalton&show_icons=true&include_all_commits=true&theme=github_dark_dimmed" height="165" alt="stats graph" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=glhalton&layout=compact&langs_count=8&theme=github_dark_dimmed" height="165" alt="languages graph" />
 </div>
 
-<!--CARDS-->
-<div align="left">
-  <h2>GitHub Stats</h2>
+<br/>
 
+<div align="center">
   
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=glhalton&theme=react&show_icons=true&hide_border=true&count_private=true" height=170/>-->
-  <div align="center">  
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=glhalton&theme=react&hide_border=true" height=170/>
-  </div>
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glhalton&theme=react&show_icons=true&hide_border=true&layout=compact" height="185" />-->
-  <br>
+ # 🧪 Technologies
+
+### ⚡ **Languages**
+
+ <img src="https://skillicons.dev/icons?i=javascript,typescript,cs&theme=dark" />
+
+### 🌐 **Web, Backend & DB**
+
+ <img src="https://skillicons.dev/icons?i=html,css,nodejs,mysql,postgres&theme=dark" />
+
+### 🛠️ **Environment & Tools**
+
+ <img src="https://skillicons.dev/icons?i=docker,git,vscode,prisma,linux,bash,powershell,notion,obsidian,mint,windows&theme=dark" />
+
 </div>
 
-<!--Programming Languages-->
-<div align="left">
-  <h2>🖥️ - Programming Languages</h2>
-  <a href="https://skillicons.dev" align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript&theme=dark" />
-</a>
-</div>
+<div align="center">
 
-<!--Markdown Languages-->
-<!-- <div align="left">
-  <h2>🏷️ - Markdown Languages</h2>
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-</div> -->
+# 🌎 Socials
 
-<!--Databases-->
-<div align="left">
-  <h2>🧾 - Databases</h2>
-  <a href="https://skillicons.dev" align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" >
-</div>
-
-<!--Tools-->
-<div align="left">
-  <h2>⚒️ - Tools</h2>
-  <a href="https://skillicons.dev" align="center">
-  <img src="https://skillicons.dev/icons?i=git,prisma,nodejs,docker,notion,obsidian,vscode,mint,windows&theme=dark"/>
-</div>
-
-<!--Social-->
-<div align="left">
-  <h2>🔗 - Social</h2>
-  <a href="https://www.linkedin.com/in/glhalton-amaro/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat" height="30" alt="LinkedIn"/>
+  <!-- <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
-    <a href="mailto:glhaltonsousa1703@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF4343&logoColor=white&style=flat" height="30" alt="Gmail"/>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a> -->
+  <a href="https://www.linkedin.com/in/leoverton-b-xavier-565111307/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white" />
   </a>
+  <a href="mailto:glhaltonsousa1703@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF4343&logoColor=white&style=flat"/>
 </div>
+
+<br/>
 
 <!--Reimu and Marisa-->
  <div align="center">
