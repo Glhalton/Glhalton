@@ -25,7 +25,7 @@
 
 ### 🛠️ **Environment & Tools**
 
- <img src="https://skillicons.dev/icons?i=docker,git,vscode,prisma,linux,bash,powershell,notion,obsidian,mint,windows&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=docker,git,prisma,vscode,notion,obsidian,bash,powershell,linux,mint,windows&theme=dark" />
 
 </div>
 
