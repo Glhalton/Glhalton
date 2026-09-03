@@ -21,11 +21,11 @@
 
 ### 🌐 **Web, Backend & DB**
 
- <img src="https://skillicons.dev/icons?i=html,css,nodejs,mysql,postgres&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=html,css,nodejs,bun,mysql,postgres&theme=dark" />
 
 ### 🛠️ **Environment & Tools**
 
- <img src="https://skillicons.dev/icons?i=docker,git,prisma,vscode,notion,obsidian,bash,powershell,linux,mint,windows&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=docker,git,prisma,vscode,obsidian,linux,windows,bash,powershell,&theme=dark" />
 
 </div>
 
