@@ -19,9 +19,9 @@
 
  <img src="https://skillicons.dev/icons?i=javascript,typescript,cs&theme=dark" />
 
-### 🌐 **Web, Backend & DB**
+### 🌐 **Web, Mobile, Backend & DB**
 
- <img src="https://skillicons.dev/icons?i=html,css,nodejs,bun,mysql,postgres&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,bun,nestjs,fastify,mysql,postgres&theme=dark" />
 
 ### 🛠️ **Environment & Tools**
 
