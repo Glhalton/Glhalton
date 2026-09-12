@@ -21,12 +21,11 @@
 
 ### 🌐 **Web, Mobile, Backend & DB**
 
- <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,bun,nestjs,fastify,mysql,postgres&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,bun,nestjs,mysql,postgres&theme=dark" />
 
 ### 🛠️ **Environment & Tools**
 
  <img src="https://skillicons.dev/icons?i=docker,git,prisma,vscode,obsidian,linux,windows,bash,powershell&theme=dark" />
- <img src="https://cdn.simpleicons.org/fastify" height="48" />
 
 </div>
 
