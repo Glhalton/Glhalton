@@ -17,15 +17,19 @@
 
 ### ⚡ **Languages**
 
- <img src="https://skillicons.dev/icons?i=javascript,typescript,cs&theme=dark" />
+ <!--<img src="https://skillicons.dev/icons?i=javascript,typescript,cs&theme=dark" />-->
+ 
+ <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,csharp&perline=12&radius=40"/>
 
 ### 🌐 **Web, Mobile, Backend & DB**
 
- <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,bun,nestjs,mysql,postgres&theme=dark" />
+ <!--<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,bun,nestjs,mysql,postgres&theme=dark" />-->
+  <img src="https://skills.syvixor.com/api/icons?i=html,css3,expo,reactnative,nodejs,bun,fastify,nestjs,mysql,postgresql&perline=12&radius=40" />
 
 ### 🛠️ **Environment & Tools**
 
- <img src="https://skillicons.dev/icons?i=docker,git,prisma,vscode,obsidian,linux,windows,bash,powershell&theme=dark" />
+ <!--<img src="https://skillicons.dev/icons?i=docker,git,prisma,vscode,obsidian,linux,windows,bash,powershell&theme=dark" />-->
+ <img src="https://skills.syvixor.com/api/icons?i=docker,insomnia,git,prisma,bash,windows,powershell,linux,visualstudiocode,obsidian&perline=12&radius=40"/>
 
 </div>
 
